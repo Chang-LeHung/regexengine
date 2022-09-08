@@ -1,2 +1,4 @@
 # regexengine
-a toy regex engine implemented in python
+A toy regex engine implemented in python.
+
+Now i only implemented a nag, dfa is to be continued...
